@@ -40,15 +40,22 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/095d7e696096e21b06447.jpg)
+Hi {}, my name is {}!
+You know i am the bestest bot than all other bots i work on python4.
+I am Life And Group Manager Bot 😁
 
-You can find the list of available commands with /help.
+Rises From Legendary Caves To Wake Up A [Legend](t.me/Criminal786)
+
+Special thanks to [this person](t.me/Kek_NoiCe) for helping me.
+
+Click /help or Help button below to find out more about how to use me to my full potential.
+
+ Add me to a group by clicking [here](http://t.me/criminal786bot?startgroup=true).
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a part of *Eagle Union*
+I'm a part of *King Union*
 Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
